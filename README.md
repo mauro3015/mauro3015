@@ -36,7 +36,7 @@
 ## Mi actividad en GitHub  
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CasadoMauro&bg_color=0d1117&color=FF6EC7&line=FF6EC7&point=FFFFFF&area=true&hide_border=true" alt="Gráfico de actividad de GitHub" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mauro3015&bg_color=0d1117&color=FF6EC7&line=FF6EC7&point=FFFFFF&area=true&hide_border=true" alt="Gráfico de actividad de GitHub" />
 </p>
 
 ---
@@ -61,7 +61,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mauro3015"><img src="https://img.shields.io/badge/LinkedIn-5fff76?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://mail.google.com/mail/u/0/?to=mauroa3015@gmail.com&su=Oportunidad+Laboral&body=Hola+Mauro,%0A%0AHe+visto+tu+GitHub+y+me+interesa+conocer+m%C3%A1s+sobre+tu+experiencia+como+Frontend+Developer.%0A%0A%5BEscribe+tu+mensaje+aqu%C3%AD%5D%0A%0ASaludos,+%5BTu+Nombre%5D.&fs=1&tf=cm"><img src="https://img.shields.io/badge/Email-FF6EC7?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://mail.google.com/mail/u/0/?to=mauroa3015@gmail.com&su=Oportunidad+Laboral&body=Hola+Mauro,%0A%0AHe+visto+tu+GitHub+y+me+interesa+conocer+m%C3%A1s+sobre+tu+experiencia+como+Frontend+Developer.%0A%0A%5BEscribe+tu+mensaje+aqu%C3%AD%5D%0A%0ASaludos,+%5BTu+Nombre%5D.&fs=1&tf=cm"><img src="https://img.shields.io/badge/Email-5fff76?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
 </p>
 
