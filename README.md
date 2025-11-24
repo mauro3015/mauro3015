@@ -36,7 +36,7 @@
 ## Mi actividad en GitHub  
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mauro3015&bg_color=0d1117&color=FF6EC7&line=FF6EC7&point=FFFFFF&area=true&hide_border=true" alt="Gráfico de actividad de GitHub" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mauro3015&bg_color=0d1117&color=5fff76&line=5fff76&point=FFFFFF&area=true&hide_border=true" alt="Gráfico de actividad de GitHub" />
 </p>
 
 ---
