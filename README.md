@@ -12,8 +12,8 @@
 
 ## Acerca de mí  
 
-* **Frontend Developer** con un estilo propio: **fashion, clean, chic**.  
-* Formación en **UTN** + **Henry**.  
+* **Frontend Developer** con un estilo propio.  
+* Formación en **Henry**.  
 * Me inspiro en el diseño editorial y la moda para crear interfaces con impacto visual.  
 * Busco transformar ideas en **experiencias digitales premium**.  
 
@@ -60,14 +60,13 @@
 ## Conectemos  
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mauro3015"><img src="https://img.shields.io/badge/LinkedIn-FF6EC7?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://mail.google.com/mail/u/0/?to=mauroa3015@gmail.com&su=Oportunidad+Laboral&body=Hola+Ludmila,%0A%0AHe+visto+tu+GitHub+y+me+interesa+conocer+m%C3%A1s+sobre+tu+experiencia+como+Frontend+Developer.%0A%0A%5BEscribe+tu+mensaje+aqu%C3%AD%5D%0A%0ASaludos,+%5BTu+Nombre%5D.&fs=1&tf=cm"><img src="https://img.shields.io/badge/Email-FF6EC7?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://drive.google.com/file/d/15R4QqUpy8izvN3xQZFFUKUkfVJ-kPikJ/view?usp=sharing"><img src="https://img.shields.io/badge/CV-FF6EC7?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="CV" /></a>
+  <a href="https://www.linkedin.com/in/mauro3015"><img src="https://img.shields.io/badge/LinkedIn-5fff76?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://mail.google.com/mail/u/0/?to=mauroa3015@gmail.com&su=Oportunidad+Laboral&body=Hola+Mauro,%0A%0AHe+visto+tu+GitHub+y+me+interesa+conocer+m%C3%A1s+sobre+tu+experiencia+como+Frontend+Developer.%0A%0A%5BEscribe+tu+mensaje+aqu%C3%AD%5D%0A%0ASaludos,+%5BTu+Nombre%5D.&fs=1&tf=cm"><img src="https://img.shields.io/badge/Email-FF6EC7?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff6ec7&height=100&section=footer&fontColor=ffffff&fontSize=24" alt="Footer animado" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=5fff76&height=100&section=footer&fontColor=ffffff&fontSize=24" alt="Footer animado" />
 </p>
