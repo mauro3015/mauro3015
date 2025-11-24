@@ -1,6 +1,6 @@
 <h1 align="center">
   <picture>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=FF6EC7&center=true&width=800&lines=Hola,+soy+Ludmila+Ravelli;Frontend+Developer+%7C+Fashion,+Clean,+Chic;Diseño+con+pasión+y+programo+con+estilo" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=#5fff76&center=true&width=800&lines=Hola,+soy+Mauro+Cavelli;Frontend+Developer+%7C+Fashion,+Clean,+Chic;Diseño+con+pasión+y+programo+con+estilo" alt="Typing SVG" />
   </picture>
 </h1>
 
@@ -36,7 +36,7 @@
 ## Mi actividad en GitHub  
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RavelliLudmila&bg_color=0d1117&color=FF6EC7&line=FF6EC7&point=FFFFFF&area=true&hide_border=true" alt="Gráfico de actividad de GitHub" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CasadoMauro&bg_color=0d1117&color=FF6EC7&line=FF6EC7&point=FFFFFF&area=true&hide_border=true" alt="Gráfico de actividad de GitHub" />
 </p>
 
 ---
@@ -45,9 +45,8 @@
 
 | Proyecto | Descripción | Stack | Link |
 |-------------|---------------|----------|----------|
-| **PsyMatch** | Plataforma innovadora de salud mental con matching inteligente. | Next.js · React 19 · Tailwind · Mapbox · MercadoPago | https://psymatch-frontend-app.onrender.com |
-| **Aura E-commerce** | Tienda deportiva femenina con diseño premium y dark/light mode. | Next.js · React 19 · Context API | www.aurafitarg.com.ar |
-| **Portfolio JuanjoRamirez** | Portafolio profesional moderno con animaciones y modo oscuro/claro. | Next.js 14 · TypeScript · Tailwind CSS | |
+| **SOMOSHENRY** | Plataforma innovadora de salud mental con matching inteligente. | Next.js · React 19 · Tailwind · Mapbox · MercadoPago | https://somoshenry.vercel.app |
+| **myapple E-commerce** | Tienda de tecnologia de apple | Next.js · React 19 · Context API 
 
 ---
 
@@ -55,17 +54,16 @@
 
 > *“Talento y comunicación: inspira y motiva a crecer.”* — **Matías Camba**  
 > *“Profesional de enorme valor: talento y proactividad.”* — **Luis M. Alfonzo Roca**  
-> *“Responsable y clara, con rol natural de líder.”* — **Morena Martín**
 
 ---
 
 ## Conectemos  
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ravelliludmila"><img src="https://img.shields.io/badge/LinkedIn-FF6EC7?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://mail.google.com/mail/u/0/?to=lud.ravelli@gmail.com&su=Oportunidad+Laboral&body=Hola+Ludmila,%0A%0AHe+visto+tu+GitHub+y+me+interesa+conocer+m%C3%A1s+sobre+tu+experiencia+como+Frontend+Developer.%0A%0A%5BEscribe+tu+mensaje+aqu%C3%AD%5D%0A%0ASaludos,+%5BTu+Nombre%5D.&fs=1&tf=cm"><img src="https://img.shields.io/badge/Email-FF6EC7?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/mauro3015"><img src="https://img.shields.io/badge/LinkedIn-FF6EC7?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://mail.google.com/mail/u/0/?to=mauroa3015@gmail.com&su=Oportunidad+Laboral&body=Hola+Ludmila,%0A%0AHe+visto+tu+GitHub+y+me+interesa+conocer+m%C3%A1s+sobre+tu+experiencia+como+Frontend+Developer.%0A%0A%5BEscribe+tu+mensaje+aqu%C3%AD%5D%0A%0ASaludos,+%5BTu+Nombre%5D.&fs=1&tf=cm"><img src="https://img.shields.io/badge/Email-FF6EC7?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://drive.google.com/file/d/15R4QqUpy8izvN3xQZFFUKUkfVJ-kPikJ/view?usp=sharing"><img src="https://img.shields.io/badge/CV-FF6EC7?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="CV" /></a>
-  <a href="https://www.ravelliludmila.com.ar/"><img src="https://img.shields.io/badge/Portfolio-FF6EC7?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Portfolio" /></a>
+
 </p>
 
 ---
